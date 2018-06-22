@@ -1,18 +1,16 @@
-pragma solidity ^0.4.16;
+pragma solidity ^0.4.20;
 
 /*
  * Abstract Token Smart Contract.  Copyright © 2017 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
-pragma solidity ^0.4.20;
 
 /*
  * EIP-20 Standard Token Smart Contract Interface.
  * Copyright © 2016–2018 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
-pragma solidity ^0.4.20;
-
+ 
 /**
  * ERC-20 standard token interface, as defined
  * <a href="https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md">here</a>.
@@ -106,8 +104,7 @@ contract Token {
  * Safe Math Smart Contract.  Copyright © 2016–2017 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
-pragma solidity ^0.4.20;
-
+ 
 /**
  * Provides methods to safely add, subtract and multiply uint256 numbers.
  */
