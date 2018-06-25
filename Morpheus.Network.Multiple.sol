@@ -1,12 +1,7 @@
 pragma solidity ^0.4.20;
 
 /*
- * Abstract Token Smart Contract.  Copyright © 2017 by ABDK Consulting.
- * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
- */
-
-/*
- * EIP-20 Standard Token Smart Contract Interface.
+ * Abstract EIP-20 Standard Token Smart Contract Interface.
  * Copyright © 2016–2018 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
@@ -101,7 +96,7 @@ contract Token {
     address indexed _owner, address indexed _spender, uint256 _value);
 }
 /*
- * Safe Math Smart Contract.  Copyright © 2016–2017 by ABDK Consulting.
+ * Safe Math Smart Contract.  Copyright © 2016–2018 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
  
